@@ -1,7 +1,7 @@
 ---
 title: Getting started
 titleTemplate: Guides
-description: Essential information to help you get set up with Mihon.
+description: Essential infoخrmation to help you get set up with Mihon.
 ---
 
 <script setup lang="ts">
